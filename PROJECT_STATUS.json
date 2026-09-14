@@ -1,59 +1,28 @@
 {
-  "as_of": "2026-09-15T01:09:34.763582+08:00",
-  "project": "《爱与幻想的法西斯主义》中文翻译项目",
+  "updated_at": "2026-09-15T01:16:05.042163+08:00",
+  "project": "《爱与幻想的法西斯主义》首部完整中文译本计划",
+  "repository": "https://github.com/mizhidaili/fascism-of-love-and-fantasy-zh",
+  "original_title": "愛と幻想のファシズム",
   "original_author": "村上龙 / 村上龍",
-  "project_lead": "郁江（Ikue）",
-  "stage": "初稿已完成，人工全书审读尚未完成",
-  "source_pages_transcribed": 857,
-  "chapters": 64,
-  "afterword": true,
-  "source_records": 7957,
-  "reader_paragraphs_per_language": 7959,
+  "project_initiator": "郁江（Ikue）",
+  "lead_translator": "郁江（Ikue）",
+  "final_editor": "郁江（Ikue）",
+  "purpose": "公开记录主导译者身份、项目时间、署名及阶段性版本",
+  "first_complete_chinese_translation": {
+    "status": "项目目标，尚非已确立的历史结论",
+    "bibliography_checked_on": "2026-09-15",
+    "bibliography_scope": "有限公开网页和书目信息检索",
+    "verified_existing_complete_chinese_edition_found": false,
+    "exhaustive_catalogue_search": false,
+    "note": "BIBLIOGRAPHIC_NOTE.md"
+  },
+  "translation_status": "初稿已形成，核校、审读与修订中",
   "human_whole_book_proofread": false,
+  "public_stable_edition": false,
   "formal_publication": false,
-  "japanese_missing_source": {
-    "paragraphs": 4,
-    "gaps": 8,
-    "located": true,
-    "summaries_substituted_for_source": false
-  },
-  "calibre": {
-    "current_combined_editions": 2,
-    "book_content_verified_on": "2026-09-15"
-  },
-  "local_current_artifacts": [
-    {
-      "filename": "愛と幻想のファシズム-日文.epub",
-      "format": "epub",
-      "language": "ja",
-      "bytes": 726732,
-      "sha256": "0e59c770b11e8686303a3435c64da193e38a5c2fc61ca850bad8a91ef30384b2"
-    },
-    {
-      "filename": "愛と幻想のファシズム-日文.md",
-      "format": "md",
-      "language": "ja",
-      "bytes": 1718140,
-      "sha256": "1f36b1d175b0190edc55894da6f5dfd78dd74708488ed03adc2d3727478b9517"
-    },
-    {
-      "filename": "爱与幻想的法西斯主义-中文.epub",
-      "format": "epub",
-      "language": "zh-CN",
-      "bytes": 721014,
-      "sha256": "11c0b9394be972437a9af41bfbd7a80f203f5185d300779ce106d646c4110664"
-    },
-    {
-      "filename": "爱与幻想的法西斯主义-中文.md",
-      "format": "md",
-      "language": "zh-CN",
-      "bytes": 1321941,
-      "sha256": "78bc7d161bc568c8a28f67d45ef13bbc0705e0b3bfd6abd24d26255d237f925c"
-    }
-  ],
+  "preferred_publication_path": "出版社合作",
+  "current_checkpoint": "checkpoints/current.json",
   "public_manuscripts": false,
   "public_epubs": false,
-  "experiment": "experiments/prompt-ablation",
-  "experiment_status": "complete",
-  "experiment_human_review": "pending"
+  "open_license": null
 }

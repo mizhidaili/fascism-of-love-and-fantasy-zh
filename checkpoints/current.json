@@ -1,0 +1,29 @@
+{
+  "recorded_at": "2026-09-15T01:16:05.042163+08:00",
+  "edition_prepared_at": "2026-09-15T00:48:00.137701+08:00",
+  "project": "《爱与幻想的法西斯主义》首部完整中文译本计划",
+  "lead_translator": "郁江（Ikue）",
+  "original_author": "村上龙",
+  "status": "中文初稿已形成，人工核校与修订中",
+  "chapters": 64,
+  "afterword": true,
+  "reader_paragraphs": 7959,
+  "human_whole_book_proofread": false,
+  "contains_editorial_renderings_requiring_review": true,
+  "formal_publication": false,
+  "manuscript_files": [
+    {
+      "filename": "爱与幻想的法西斯主义-中文.epub",
+      "format": "epub",
+      "sha256": "11c0b9394be972437a9af41bfbd7a80f203f5185d300779ce106d646c4110664",
+      "bytes": 721014
+    },
+    {
+      "filename": "爱与幻想的法西斯主义-中文.md",
+      "format": "md",
+      "sha256": "78bc7d161bc568c8a28f67d45ef13bbc0705e0b3bfd6abd24d26255d237f925c",
+      "bytes": 1321941
+    }
+  ],
+  "full_text_published": false
+}

@@ -13,3 +13,6 @@ runs/
 samples.json
 blind-key.json
 prompt-input.json
+
+# Keep internal translation experiments local.
+/experiments/
