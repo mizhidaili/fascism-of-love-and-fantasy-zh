@@ -1,0 +1,168 @@
+{
+  "status": "complete",
+  "successful_generations": 6,
+  "failed_attempts": 0,
+  "repetitions_per_cell": 1,
+  "intervention_only_prefix_diff_verified": true,
+  "all_paragraph_ids_preserved": true,
+  "assistant_assessment": "Non-blind qualitative reading; not independent human ratings",
+  "human_evaluation": "pending",
+  "runs": [
+    {
+      "sample": "scenery",
+      "arm": "framework",
+      "model": "gpt-6-astra",
+      "reasoning_effort": "high",
+      "started_at": "2026-09-15T01:06:46.592058+08:00",
+      "finished_at": "2026-09-15T01:07:19.793452+08:00",
+      "prompt_sha256": "9506da8ed35569fed439283d83606a6c2bd313a823907df43bc294e0fdc64de8",
+      "raw_response_sha256": "0909f56937165fe3c4157e8dda6ea80cb31b0269e36c2c15d11ddc610c690dc8",
+      "source_sha256": "b4ff1a2f393563c072803d15fa43e7c72c5a98ed0b09c70d63c6d75ca332cc87",
+      "paragraphs": 3,
+      "chinese_characters": 205,
+      "context_audit_passed": true,
+      "tool_calls_observed": 0,
+      "model_reroutes_observed": 0,
+      "issue_count": 0,
+      "usage": [
+        {
+          "input_tokens": 8020,
+          "cached_input_tokens": 0,
+          "cache_write_input_tokens": 0,
+          "output_tokens": 679,
+          "reasoning_output_tokens": 299
+        }
+      ]
+    },
+    {
+      "sample": "scenery",
+      "arm": "minimal",
+      "model": "gpt-6-astra",
+      "reasoning_effort": "high",
+      "started_at": "2026-09-15T01:05:02.317920+08:00",
+      "finished_at": "2026-09-15T01:05:28.142652+08:00",
+      "prompt_sha256": "df6325f179bf33cf92a97ab6ac3a0625eef6cdc921b4aab763943e71b567f41e",
+      "raw_response_sha256": "4364871a9269db71fa1292b6e680d08736b976ed4da967250c86036b5819906c",
+      "source_sha256": "b4ff1a2f393563c072803d15fa43e7c72c5a98ed0b09c70d63c6d75ca332cc87",
+      "paragraphs": 3,
+      "chinese_characters": 206,
+      "context_audit_passed": true,
+      "tool_calls_observed": 0,
+      "model_reroutes_observed": 0,
+      "issue_count": 0,
+      "usage": [
+        {
+          "input_tokens": 7755,
+          "cached_input_tokens": 0,
+          "cache_write_input_tokens": 0,
+          "output_tokens": 410,
+          "reasoning_output_tokens": 37
+        }
+      ]
+    },
+    {
+      "sample": "dialogue",
+      "arm": "framework",
+      "model": "gpt-6-astra",
+      "reasoning_effort": "high",
+      "started_at": "2026-09-15T01:06:06.779055+08:00",
+      "finished_at": "2026-09-15T01:06:46.505826+08:00",
+      "prompt_sha256": "3d57d0d5e07e410749111c4fb2577e205e51d39e4b8b4a6655e6c6a83da4050e",
+      "raw_response_sha256": "fa86692dc5282c8329d95d778d4a55060cff5ffed5ba8e71bff84a809d981cd5",
+      "source_sha256": "2a7972d779675d87db72e4b1bd68775f7847e2cbfd511b05f61feb917109a2db",
+      "paragraphs": 9,
+      "chinese_characters": 309,
+      "context_audit_passed": true,
+      "tool_calls_observed": 0,
+      "model_reroutes_observed": 0,
+      "issue_count": 0,
+      "usage": [
+        {
+          "input_tokens": 8304,
+          "cached_input_tokens": 0,
+          "cache_write_input_tokens": 0,
+          "output_tokens": 803,
+          "reasoning_output_tokens": 163
+        }
+      ]
+    },
+    {
+      "sample": "dialogue",
+      "arm": "minimal",
+      "model": "gpt-6-astra",
+      "reasoning_effort": "high",
+      "started_at": "2026-09-15T01:05:28.221608+08:00",
+      "finished_at": "2026-09-15T01:06:06.661703+08:00",
+      "prompt_sha256": "6ccf83f23f44ce15b4db44914c3a76deb63a4ce14a3e59f3443abf65ade00f13",
+      "raw_response_sha256": "ce780fc6a85e2ede09e12889a2e8664d0c975c376f55cb0254334d61c4fd5350",
+      "source_sha256": "2a7972d779675d87db72e4b1bd68775f7847e2cbfd511b05f61feb917109a2db",
+      "paragraphs": 9,
+      "chinese_characters": 319,
+      "context_audit_passed": true,
+      "tool_calls_observed": 0,
+      "model_reroutes_observed": 0,
+      "issue_count": 0,
+      "usage": [
+        {
+          "input_tokens": 8039,
+          "cached_input_tokens": 0,
+          "cache_write_input_tokens": 0,
+          "output_tokens": 750,
+          "reasoning_output_tokens": 121
+        }
+      ]
+    },
+    {
+      "sample": "argument",
+      "arm": "framework",
+      "model": "gpt-6-astra",
+      "reasoning_effort": "high",
+      "started_at": "2026-09-15T01:07:19.869802+08:00",
+      "finished_at": "2026-09-15T01:08:00.616996+08:00",
+      "prompt_sha256": "184c5b06a1ddc6f315e21a427e1d7d40681b782303e4f78db2de728d3f2a0f0e",
+      "raw_response_sha256": "95056cc76cb9efdd154a9ed578166bce218d339339509e5e20ebcf2239fbb0d5",
+      "source_sha256": "d42ef9f9450734eb0845c6cc525a5cc00fefb6d0ac9cf117cd4b635dfeb19fae",
+      "paragraphs": 3,
+      "chinese_characters": 381,
+      "context_audit_passed": true,
+      "tool_calls_observed": 0,
+      "model_reroutes_observed": 0,
+      "issue_count": 0,
+      "usage": [
+        {
+          "input_tokens": 8499,
+          "cached_input_tokens": 0,
+          "cache_write_input_tokens": 0,
+          "output_tokens": 977,
+          "reasoning_output_tokens": 418
+        }
+      ]
+    },
+    {
+      "sample": "argument",
+      "arm": "minimal",
+      "model": "gpt-6-astra",
+      "reasoning_effort": "high",
+      "started_at": "2026-09-15T01:08:00.690393+08:00",
+      "finished_at": "2026-09-15T01:08:36.628694+08:00",
+      "prompt_sha256": "404ff9729775befc5dc0881deaecbb4ea9669ae3f6206f9da32103fc8e6690f3",
+      "raw_response_sha256": "2af4a6fcb1ab196572248ed2ecc828df05d3a0d20d87b8965c595304c71db07c",
+      "source_sha256": "d42ef9f9450734eb0845c6cc525a5cc00fefb6d0ac9cf117cd4b635dfeb19fae",
+      "paragraphs": 3,
+      "chinese_characters": 384,
+      "context_audit_passed": true,
+      "tool_calls_observed": 0,
+      "model_reroutes_observed": 0,
+      "issue_count": 0,
+      "usage": [
+        {
+          "input_tokens": 8234,
+          "cached_input_tokens": 6144,
+          "cache_write_input_tokens": 0,
+          "output_tokens": 741,
+          "reasoning_output_tokens": 181
+        }
+      ]
+    }
+  ]
+}

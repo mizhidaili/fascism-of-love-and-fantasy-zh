@@ -1,0 +1,15 @@
+# Local manuscripts, source material and runtime records
+.DS_Store
+.env
+.env.*
+*.epub
+*.pdf
+*.zip
+*.log
+__pycache__/
+local/
+raw/
+runs/
+samples.json
+blind-key.json
+prompt-input.json
