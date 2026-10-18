@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-15T01:16:05.042163+08:00",
+  "updated_at": "2026-10-19T01:16:13+08:00",
   "project": "《爱与幻想的法西斯主义》首部完整中文译本计划",
   "repository": "https://github.com/mizhidaili/fascism-of-love-and-fantasy-zh",
   "original_title": "愛と幻想のファシズム",
@@ -23,6 +23,19 @@
   "preferred_publication_path": "出版社合作",
   "current_checkpoint": "checkpoints/current.json",
   "public_manuscripts": false,
-  "public_epubs": false,
+  "public_epubs": true,
+  "public_scope": "中文 V1 译文样章，仅第1至第3章；完整书稿不公开",
+  "public_samples": [
+    {
+      "released_on": "2026-10-19",
+      "format": "epub",
+      "chapters": [1, 2, 3],
+      "path": "releases/爱与幻想的法西斯主义-V1译文样章-第1至3章.epub",
+      "sha256": "ec306900ede44cee079207217635a3ac54530181736f27a015cd790b6b938937",
+      "bytes": 24941,
+      "human_proofread": false,
+      "formal_publication": false
+    }
+  ],
   "open_license": null
 }

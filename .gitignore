@@ -16,3 +16,7 @@ prompt-input.json
 
 # Keep internal translation experiments local.
 /experiments/
+
+# The explicitly approved three-chapter public sample is versioned here.
+!/releases/
+!/releases/*.epub
